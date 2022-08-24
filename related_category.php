@@ -1,10 +1,10 @@
 <?php
 
-/*  Plugin Name: Related Category Plugin
+/*  Plugin Name: WordPress Related Category Plugin
 
 
 
-  Plugin URI: http://webbrainstechnologies.com
+  Plugin URI: 
 
 
 
@@ -16,11 +16,11 @@
 
 
 
-	Author: Vinod Khatik
+	Author: Initially developed by Vinod Khatik
 
 
 
-	Author URI: http://webbrainstechnologies.com
+	Author URI: 
 
 
 
